@@ -1,9 +1,8 @@
-Hello 
-I’m currently working on : DATA ANALYTICS
+Hello , I'm Sumayya I'm a data science enthusiast with a strong passion for learning and staying updated
+on new technologies. 
 
-My Proficiency : SQL, PYTHON (DATA SC), POWER BI, EXCEL
-
-I’m looking for an opportunity in : DATA ANALYTICS & SCIENCE
+I am actively seeking full-time opportunities in the data science domain, with a
+specific interest in a role as Data analyst or business analyst
 
 Ask me about : DATA ANALYSIS & VISUALIZATION, EDA, MACHINE LEARNING, STATISTICAL ANALYSIS
 
